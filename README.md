@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Semhal Lilay</h1>
+<h1 align="center">Hello 👋🏾, I'm Semhal Lilay</h1>
 <h3 align="center">A Young, Beautiful model from Ethiopia</h3> 
 <img align="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/gown-beautiful-model-gif-16897296.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahwa27&label=Profile%20views&color=0e75b6&style=flat" alt="rahwa27" /> </p>
 
-- 🌱 I’m currently studying **Marketing**
+- 📝 I’m currently studying **Marketing**
 
-- 📫 How to reach me **lilaysemhal@gmail.com**
+- 💌 contact me **lilaysemhal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

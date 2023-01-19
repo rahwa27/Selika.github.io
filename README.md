@@ -1,5 +1,11 @@
 <h1 align="center">Hello 👋🏾, I'm Semhal Lilay</h1>
 <h3 align="center">A Young, Beautiful model from Ethiopia</h3> 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://images.app.goo.gl/yofDFB3iTtkwgkHZ9-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="https://images.app.goo.gl/7mK9ue41veqkQJwd7-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
 <img align="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/gown-beautiful-model-gif-16897296.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahwa27&label=Profile%20views&color=0e75b6&style=flat" alt="rahwa27" /> </p>
